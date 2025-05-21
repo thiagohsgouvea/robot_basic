@@ -1,0 +1,18 @@
+1747854503388	geckodriver	INFO	Listening on 127.0.0.1:55329
+1747854503407	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/Applications/Firefox. ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kp/d36_lv055l7b6mmlqz56r8wh_smcs_/T/rust_mozprofilenmU8BR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1747854504071	Marionette	INFO	Marionette enabled
+1747854504334	Marionette	INFO	Listening on port 55335
+Read port: 55335
+WebDriver BiDi listening on ws://127.0.0.1:55330
+1747854504448	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Policies: 
+  Download failed - ERROR_CORRUPT_FILE - file:///opt/snow/FFCloudmetering.xpi
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript warning: https://www.amazon.com.br/, line 3652: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/Eletronicos-e-Tecnologia/b/?ie=UTF8&node=16209062011&ref_=nav_cs_electronics, line 5797: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1747854509763	Marionette	INFO	Stopped listening on port 55335
+JavaScript warning: https://www.amazon.com.br/Eletronicos-e-Tecnologia/b/?ie=UTF8&node=16209062011&ref_=nav_cs_electronics, line 5745: Script terminated by timeout at:
+l@https://www.amazon.com.br/Eletronicos-e-Tecnologia/b/?ie=UTF8&node=16209062011&ref_=nav_cs_electronics:5745:262
+

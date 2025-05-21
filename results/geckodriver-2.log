@@ -1,0 +1,26 @@
+1747854510572	geckodriver	INFO	Listening on 127.0.0.1:55373
+1747854510630	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/Applications/Firefox. ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kp/d36_lv055l7b6mmlqz56r8wh_smcs_/T/rust_mozprofilexbqnN5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1747854510993	Marionette	INFO	Marionette enabled
+1747854511197	Marionette	INFO	Listening on port 55381
+WebDriver BiDi listening on ws://127.0.0.1:55374
+Read port: 55381
+console.error: Policies: 
+  Download failed - ERROR_CORRUPT_FILE - file:///opt/snow/FFCloudmetering.xpi
+1747854511324	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript warning: https://www.amazon.com.br/, line 3697: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.amazon.com.br/s?k=Xbox+Series+S&__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss, line 6993: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1747854515171	Marionette	INFO	Stopped listening on port 55381
+JavaScript warning: about:srcdoc, line 27: Script terminated by timeout at:
+n@about:srcdoc:27:367
+M/</<@about:srcdoc:29:111
+z@about:srcdoc:30:278
+
+JavaScript warning: https://m.media-amazon.com/images/I/A1FPuLcWt6L.js, line 27: Script terminated by timeout at:
+recordTimeInTotal@https://m.media-amazon.com/images/I/A1FPuLcWt6L.js:27:246541
+createViewabilityEvent@https://m.media-amazon.com/images/I/A1FPuLcWt6L.js:27:246572
+sendBeaconEvents@https://m.media-amazon.com/images/I/A1FPuLcWt6L.js:27:251739
+prepareSendEvents/<@https://m.media-amazon.com/images/I/A1FPuLcWt6L.js:27:250088
+
