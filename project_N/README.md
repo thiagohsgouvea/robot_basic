@@ -20,7 +20,7 @@ Modelo de estruturação de pastas conforme o curso da Bianca Campos no YouTube 
     │   ├── settings.resource
     │   ├── ...
     │
-    ├── tests
+    ├── steps
     │   ├── access
     │   │   ├── access_steps.robot
     │   │
