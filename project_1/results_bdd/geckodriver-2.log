@@ -1,0 +1,33 @@
+1747883491560	geckodriver	INFO	Listening on 127.0.0.1:59397
+1747883491572	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/Applications/Firefox. ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kp/d36_lv055l7b6mmlqz56r8wh_smcs_/T/rust_mozprofileB0BidC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1747883491952	Marionette	INFO	Marionette enabled
+1747883492146	Marionette	INFO	Listening on port 59403
+WebDriver BiDi listening on ws://127.0.0.1:59398
+Read port: 59403
+console.error: Policies: 
+  Download failed - ERROR_CORRUPT_FILE - file:///opt/snow/FFCloudmetering.xpi
+1747883492269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript warning: https://www.amazon.com.br/, line 3792: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://m.media-amazon.com/images/I/A1FPuLcWt6L.js, line 27: Script terminated by timeout at:
+getSushiFormattedEvents@https://m.media-amazon.com/images/I/A1FPuLcWt6L.js:27:250200
+sendBeaconEvents@https://m.media-amazon.com/images/I/A1FPuLcWt6L.js:27:251958
+prepareSendEvents/<@https://m.media-amazon.com/images/I/A1FPuLcWt6L.js:27:250088
+
+JavaScript warning: https://www.amazon.com.br/s?k=Xbox+Series+S&__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&ref=nb_sb_noss, line 7038: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1747883496503	Marionette	INFO	Stopped listening on port 59403
+JavaScript warning: about:srcdoc, line 26: Script terminated by timeout at:
+R@about:srcdoc:26:430
+B@about:srcdoc:29:182
+_namespace@about:srcdoc:34:78
+@https://images-na.ssl-images-amazon.com/images/I/11zuylp74DL._RC|61xJcNKKLXL.js,11Y+5x+kkTL.js,51LPrROZ2JL.js,11EeeaacI2L.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21NadQlXUWL.js,012FVc3131L.js,11a7qqY8xXL.js,11rRjDLdAVL.js,51zH7YD-TsL.js,11FhdH2HZwL.js,11wb9K3sw0L.js,11BrgrMAHUL.js,11GYEyswV2L.js,210X-JWUe-L.js,01Svfxfy8OL.js,518u7YD3VHL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ktRCtOqKL.js,01ASnt2lbqL.js,11F929pmpYL.js,31vxRYDelFL.js,01rpauTep4L.js,31wjiT+nvTL.js,011FfPwYqHL.js,213iL7Jf1nL.js,014gnDeJDsL.js,11vb6P5C5AL.js,01UExRvQDKL.js_.js?AUIClients/AmazonUI#372963-T1:1:90
+@https://images-na.ssl-images-amazon.com/images/I/11zuylp74DL._RC|61xJcNKKLXL.js,11Y+5x+kkTL.js,51LPrROZ2JL.js,11EeeaacI2L.js,11GgN1+C7hL.js,01+z+uIeJ-L.js,01VRMV3FBdL.js,21NadQlXUWL.js,012FVc3131L.js,11a7qqY8xXL.js,11rRjDLdAVL.js,51zH7YD-TsL.js,11FhdH2HZwL.js,11wb9K3sw0L.js,11BrgrMAHUL.js,11GYEyswV2L.js,210X-JWUe-L.js,01Svfxfy8OL.js,518u7YD3VHL.js,01JYHc2oIlL.js,31nfKXylf6L.js,01ktRCtOqKL.js,01ASnt2lbqL.js,11F929pmpYL.js,31vxRYDelFL.js,01rpauTep4L.js,31wjiT+nvTL.js,011FfPwYqHL.js,213iL7Jf1nL.js,014gnDeJDsL.js,11vb6P5C5AL.js,01UExRvQDKL.js_.js?AUIClients/AmazonUI#372963-T1:1:208
+
+JavaScript warning: https://m.media-amazon.com/images/I/A1FPuLcWt6L.js, line 27: Script terminated by timeout at:
+recordTimeInTotal@https://m.media-amazon.com/images/I/A1FPuLcWt6L.js:27:246541
+createViewabilityEvent@https://m.media-amazon.com/images/I/A1FPuLcWt6L.js:27:246572
+sendBeaconEvents@https://m.media-amazon.com/images/I/A1FPuLcWt6L.js:27:251739
+prepareSendEvents/<@https://m.media-amazon.com/images/I/A1FPuLcWt6L.js:27:250088
+

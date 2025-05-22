@@ -1,8 +1,10 @@
 # Robot Framework Basic
 
-Projeto de testes do site Amazon - BR, desenvolvido durante o curso da May Fernandes na Udemy [Automação de Testes com Robot Framework - Básico](https://www.udemy.com/course/automacao-de-testes-com-robot-framework-basico/).
+### Projects
 
-Estruturação de pastas conforme o curso da Bianca Campos no YouTube [Aprenda Robot Framework (Kickoff)](https://youtu.be/cQbP3qsHnI0?si=IjGQ9qvfYBKeNr3_).
+Project 1 - Projeto de testes do site Amazon - BR, desenvolvido durante o curso da May Fernandes na Udemy [Automação de Testes com Robot Framework - Básico](https://www.udemy.com/course/automacao-de-testes-com-robot-framework-basico/) - (Até o Móduldo 3).
+
+Project N - Estruturação de pastas conforme o curso da Bianca Campos no YouTube [Aprenda Robot Framework (Kickoff)](https://youtu.be/cQbP3qsHnI0?si=IjGQ9qvfYBKeNr3_).
 
 ## Running Tests
 

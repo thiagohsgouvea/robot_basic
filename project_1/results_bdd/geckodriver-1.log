@@ -1,0 +1,30 @@
+1747883484882	geckodriver	INFO	Listening on 127.0.0.1:59340
+1747883484904	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" "/Applications/Firefox. ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/kp/d36_lv055l7b6mmlqz56r8wh_smcs_/T/rust_mozprofileiYGR6H"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1747883485306	Marionette	INFO	Marionette enabled
+1747883485513	Marionette	INFO	Listening on port 59346
+WebDriver BiDi listening on ws://127.0.0.1:59341
+Read port: 59346
+console.error: Policies: 
+  Download failed - ERROR_CORRUPT_FILE - file:///opt/snow/FFCloudmetering.xpi
+1747883485630	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+JavaScript warning: https://www.amazon.com.br/, line 3796: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://c.amazon-adsystem.com/vfw/dv/dv-measurements7802.js, line 2: Script terminated by timeout at:
+updateEventDataFrequencyCounter@https://c.amazon-adsystem.com/vfw/dv/dv-measurements7802.js:2:236292
+sendDataToServer@https://c.amazon-adsystem.com/vfw/dv/dv-measurements7802.js:2:236131
+749/handleUnload/<@https://c.amazon-adsystem.com/vfw/dv/dv-measurements7802.js:2:236835
+handleUnload@https://c.amazon-adsystem.com/vfw/dv/dv-measurements7802.js:2:236813
+7360/mapToWrapperFunction/</t[e]@https://c.amazon-adsystem.com/vfw/dv/dv-measurements7802.js:2:226629
+runSafely@https://c.amazon-adsystem.com/vfw/dv/dv-measurements7802.js:2:227356
+7360/publishEvents/<@https://c.amazon-adsystem.com/vfw/dv/dv-measurements7802.js:2:226486
+publishEvents@https://c.amazon-adsystem.com/vfw/dv/dv-measurements7802.js:2:226468
+dispatchEvent@https://c.amazon-adsystem.com/vfw/dv/dv-measurements7802.js:2:225066
+handleUnload@https://c.amazon-adsystem.com/vfw/dv/dv-measurements7802.js:2:322973
+
+JavaScript warning: https://www.amazon.com.br/Eletronicos-e-Tecnologia/b/?ie=UTF8&node=16209062011&ref_=nav_cs_electronics, line 5727: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1747883490800	Marionette	INFO	Stopped listening on port 59346
+JavaScript warning: https://images-na.ssl-images-amazon.com/images/I/514I0Eu-jKL._RC|71TT2fp53zL.js,019AaNzy9HL.js,01MHmiwP7tL.js,7148KtnYGPL.js,01cZ21lATAL.js,01bAfFgS7JL.js,01A2AtmCtlL.js,41jBieyCvYL.js,01wXnKULArL.js,01+pnQJuQ0L.js,21UXsP5YTYL.js,41SyPFpNzkL.js,51jIBA6BvSL.js,31XO9BO1OrL.js,11lw6J7z8iL.js,31+UifI0MIL.js,01VYGE8lGhL.js_.js?AUIClients/NavDesktopUberAsset#desktop.language-pt.br.1173925-T1.1089549-T1.1195494-T1.1089717-T1.948355-T2.1179039-T1.1172084-T1.1195549-T1, line 135: Script terminated by timeout at:
+onEnter/y<@https://images-na.ssl-images-amazon.com/images/I/514I0Eu-jKL._RC|71TT2fp53zL.js,019AaNzy9HL.js,01MHmiwP7tL.js,7148KtnYGPL.js,01cZ21lATAL.js,01bAfFgS7JL.js,01A2AtmCtlL.js,41jBieyCvYL.js,01wXnKULArL.js,01+pnQJuQ0L.js,21UXsP5YTYL.js,41SyPFpNzkL.js,51jIBA6BvSL.js,31XO9BO1OrL.js,11lw6J7z8iL.js,31+UifI0MIL.js,01VYGE8lGhL.js_.js?AUIClients/NavDesktopUberAsset#desktop.language-pt.br.1173925-T1.1089549-T1.1195494-T1.1089717-T1.948355-T2.1179039-T1.1172084-T1.1195549-T1:135:482
+
